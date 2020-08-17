@@ -1,0 +1,6 @@
+framework module XKCocoapods {
+  umbrella header "XKCocoapods-umbrella.h"
+
+  export *
+  module * { export * }
+}

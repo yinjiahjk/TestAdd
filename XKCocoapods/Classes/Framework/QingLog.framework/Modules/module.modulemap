@@ -1,0 +1,6 @@
+framework module QingLog {
+  umbrella header "QingLog.h"
+
+  export *
+  module * { export * }
+}
