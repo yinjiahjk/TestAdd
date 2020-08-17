@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'XKCocoapods'
+  s.name             = 'XKCocoapodshyc'
   s.version          = '1.0.0'
   s.summary          = '供游客'
 
